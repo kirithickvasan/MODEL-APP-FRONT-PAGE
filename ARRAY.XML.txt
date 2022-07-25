@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="headings">
+<item>SALEM</item>
+<item>ERODE</item>
+<item>TRICHY</item>
+<item>NAMMAKAL</item>
+<item>DHARMAPURI</item>
+<item>HOSUR</item>
+<item>KIRSHNAGIRI</item>
+<item>TANJORE</item>
+<item>OMULUR</item>
+</string-array>
+</resources>
